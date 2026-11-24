@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010259989912",
+    "project_id": "duo-leic",
+    "storage_bucket": "duo-leic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010259989912:android:3308d92dd09b4c606bc7ed",
+        "android_client_info": {
+          "package_name": "com.example.duo_leic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYksDx4GpE6kzh1QUky5Blv4vGZsD_tys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
